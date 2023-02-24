@@ -1,2 +1,2 @@
 # WickersonsFavoriteGH_Files_Public
-Wickerson's Favorite gh Files PUBLIC (even numbered sets of 10 scripts)
+Wickerson's Favorite gh Files PUBLIC (every other set of 10 scripts)
